@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Downloader</title>
+</head>
+
+<body>
 
     <h1>YouTube Downloader</h1>
 
@@ -59,3 +69,7 @@
         <li>Email: your.email@example.com</li>
         <li>GitHub: <a href="https://github.com/username">username</a></li>
     </ul>
+
+</body>
+
+</html>
