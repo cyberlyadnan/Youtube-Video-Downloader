@@ -1,4 +1,5 @@
-<h1>YouTube Downloader</h1>
+
+    <h1>YouTube Downloader</h1>
 
     <h2>Description</h2>
     <p>The YouTube Downloader is a Python script that allows users to download videos and audios from YouTube by providing the URL. It uses the <code>pytube</code> library to fetch and download the content. The GUI (Graphical User Interface) is built using the <code>tkinter</code> library and customized with the <code>customtkinter</code> module for appearance and UI scaling adjustments.</p>
@@ -47,4 +48,14 @@
     <ul>
         <li>Appearance Mode: Choose between Light, Dark, or System appearance modes to match your preference.</li>
         <li>UI Scaling: Adjust the UI scaling for better readability and accessibility.</li>
+    </ul>
+
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+    <h2>Contact</h2>
+    <p>For any inquiries or issues, feel free to contact the project maintainer:</p>
+    <ul>
+        <li>Email: your.email@example.com</li>
+        <li>GitHub: <a href="https://github.com/username">username</a></li>
     </ul>
